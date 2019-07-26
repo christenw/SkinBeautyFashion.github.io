@@ -1,0 +1,46 @@
+h1 {
+  color: black;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+body{
+  background-color: #efbbcc;
+  font-family: 'Belista';
+
+}
+p{
+  color:black;
+  text-align: left;
+  font-size: 15px;
+  font-weight: lighter;
+  font-family: monospace;
+  text-align: center;
+}
+ins {
+  color: #efbbcc;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  background-color: #fffaf0
+}
+li {
+  float:left;
+}
+li a {
+  display: block;
+  color: black;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: monospace;
+}
+li a:hover {
+  background-image: url("https://image.freepik.com/free-photo/gold-glitter-background_53876-84745.jpg");
+  color: black;
